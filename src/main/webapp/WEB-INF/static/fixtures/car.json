@@ -1,0 +1,233 @@
+{
+    "carColors": [{
+        "id": 8,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Blizzard Pearl",
+        "colorHexCode": "f3f1f2",
+        "price": 395.00
+    }, {
+        "id": 9,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Classic Silver Metallic",
+        "colorHexCode": "808080",
+        "price": 0.00
+    }, {
+        "id": 10,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Magnetic Grey Metallic",
+        "colorHexCode": "4a4849",
+        "price": 100.00
+    }, {
+        "id": 11,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Attitude Black Metallic",
+        "colorHexCode": "01021e",
+        "price": 200.00
+    }, {
+        "id": 12,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Sizzling Crimson Mica",
+        "colorHexCode": "4c1b31",
+        "price": 300.00
+    }, {
+        "id": 13,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Ooh La La Rouge Mica",
+        "colorHexCode": "470012",
+        "price": 400.00
+    }, {
+        "id": 14,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Creme Brulee Mica",
+        "colorHexCode": "c8b7a3",
+        "price": 500.00
+    }, {
+        "id": 15,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Cypress Pearl",
+        "colorHexCode": "787d69",
+        "price": 600.00
+    }, {
+        "id": 16,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Parisian Night Pearl",
+        "colorHexCode": "122742",
+        "price": 700.00
+    }],
+    "rimsColors": [{
+        "id": 1,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Almond",
+        "colorHexCode": "b7a688",
+        "price": 0.00
+    }, {
+        "id": 2,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Light Gray",
+        "colorHexCode": "808080",
+        "price": 200.00
+    }, {
+        "id": 3,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "colorName": "Black",
+        "colorHexCode": "212121",
+        "price": 300.00
+    }],
+    "accessories": [{
+        "id": 11,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Alloy Wheel Locks",
+        "price": 81.00
+    }, {
+        "id": 12,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Door Edge Guards",
+        "price": 125.00
+    }, {
+        "id": 13,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Paint Protection Film",
+        "price": 395.00
+    }, {
+        "id": 14,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Rear Bumper Applique",
+        "price": 69.00
+    }, {
+        "id": 15,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Ashtray Cup",
+        "price": 26.00
+    }, {
+        "id": 16,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Cargo Net - Envelope",
+        "price": 49.00
+    }, {
+        "id": 17,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Cargo Tote",
+        "price": 49.00
+    }, {
+        "id": 18,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Emergency Assistance Kit",
+        "price": 59.00
+    }, {
+        "id": 19,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "First Aid Kit",
+        "price": 29.00
+    }, {
+        "id": 20,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Glass Brakage Senson (GBS)",
+        "price": 299.00
+    }, {
+        "id": 21,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Illuminated Door Sills",
+        "price": 379.00
+    }, {
+        "id": 22,
+        "car": {
+            "id": 3,
+            "modelName": "Ebx Avalon",
+            "price": 32560.00
+        },
+        "description": "Remote Engine Starter",
+        "price": 499.00
+    }]
+}

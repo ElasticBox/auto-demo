@@ -1,0 +1,186 @@
+.Ebx-logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    display: inline-block;
+}
+
+.Ebx-logo > img {
+    margin: 20px 55px 0 0;
+    width: 100px;
+}
+
+.configurator {
+    width: 343px;
+    height: 600px;
+
+    right: 50px;
+
+    position: absolute;
+    bottom: 0;
+
+    font-family: "Helvetica Neue", "Open Sans", sans-serif
+}
+
+.configurator .total {
+    text-align: right;
+    font-size: 45px;
+    position: absolute;
+    top: -60px;
+    right: 0;
+
+    text-shadow: 1px 1px 1px #000;
+}
+
+.configurator .overlay {
+    width: 100%;
+    height: 100%;
+
+    background-color: white;
+    opacity: .9;
+}
+
+.configurator .content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding: 15px 35px;
+
+    overflow: scroll;
+}
+
+.configurator .content h1 {
+    text-align: left;
+
+    font-weight: 300;
+    color: #D31010;
+    font-size: 32px;
+    /*text-shadow: 1px 1px 1px rgb(241, 241, 241);*/
+
+    margin-bottom: 0;
+}
+
+.configurator .content h2 {
+    text-align: left;
+
+    font-weight: 300;
+    color: #575757;
+    font-size: 15px;
+    line-height: 12px;
+
+    margin: 0;
+}
+
+.configurator .content h3 {
+    text-align: left;
+
+    margin: 0;
+    padding: 0;
+
+    font-weight: 200;
+    color: #222;
+    font-size: 15px;
+    line-height: 12px;
+
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.configurator .color-list {
+    margin: 0;
+    padding: 0;
+
+    text-align: left;
+    margin-top: 10px;
+}
+
+.configurator .color-item {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    vertical-align: top;
+    text-align: left;
+
+    width: 80px;
+    margin: 2px;
+    height: 40px;
+
+    background-color: #f7f7f7;
+    background-size: 100% 100%;
+
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -ms-box-sizing: content-box;
+    box-sizing: content-box;
+
+    outline: 0;
+
+    padding: 2px;
+    border: 0;
+}
+
+.configurator .color-item:hover {
+    padding: 0;
+    border: 2px solid #D31010;
+
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -ms-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.configurator .color-item:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: 100% 100%;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAAyCAQAAAAe9YaGAAABjklEQVR4Ad2Z0WrDQBADNcb//819LFFxV5iz9zY9Cl69tBMl7HBBHT9Uvx9PSMKz/57YAonf/BrqYkI+iR07KjA8dyj4ro4Mqq0jw8k7ugakGYkUKuvIoTbqyBLHK5AE23QkUXdU4UjPQ2FYdzqSqDryw8SOHMYTOjry1GF8tqTEom3FIsUaVMD4xOMd6QNAy1bsNSRsoUGxqmaNMVGDfHI4NtegDMRSvqsjh9pDgxLPK3NmqWoGxxIgiXdUNcNjlqpmcLylqgs0KMZjgqr6VBzRoEFJR/luOoo91X1jl3e0bk8h9a/YBI69bux8DvEO21PzNKg4EsxS1QyPe0jNHRU5nTd2Pq3KmaOqeU6uqs/f2K3CY46q5jn9qmrpAjwe7khipapmORur6m08WlRV8b94JBCeMUhV8z21uapGcD6xuapKFG9B/Z3Pd75cfrYjOzoHalAJe/bc2K3PHeqLOvLP1AhVzV7O81VVlY4X4HSK1arqGBdoCzH8+Yw6kmhU1RxNH1DhikXq16D6b/8Ak9oMxm1YOy4AAAAASUVORK5CYII=);
+}
+
+.configurator .accessory-list {
+    list-style: none;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.configurator .accessory-item {
+    text-align: left;
+
+    font-weight: 300;
+    color: #575757;
+    font-size: 14px;
+    line-height: 12px;
+
+    background-color: white;
+    margin: 2px 0;
+
+    padding: 15px 10px;
+}
+
+.configurator .accessory-item .column {
+    display: inline-block;
+}
+
+.configurator .accessory-item .checkbox {
+    float: left;
+}
+
+.configurator .accessory-item .description {
+    padding-left: 10px;
+}
+
+.configurator .accessory-item .price {
+    float: right;
+    font-weight: 300;
+    color: #D31010;
+    font-size: 17px;
+}
+
+
+
+
+
